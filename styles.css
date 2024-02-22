@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(191, 202, 201);
+}
+
+header {
+ color : rgb(70, 0, 156);
+ font-size: 50;
+ text-align: center;
+}
+
+
+h1 {
+  color:rgb(146, 9, 9);
+  text-align: center;
+}
+
+
+h2 {
+  color:rgb(102, 64, 7);
+  text-align: center;
+}
+
+ul {
+  color:rgb(27, 15, 99);
+}
+
+section {
+  background-color: rgb(252, 252, 252);
+  padding: 1px;
+  border: 3px solid rgb(0, 0, 0);
+  margin: 10px;
+}
+
+#fruit-section {
+  width:25%
+}
+
+#vegetable-section {
+  width:25%
+}
+
+#carbs-section {
+  width:25%
+}
+
+#cleaners-section {
+  width:25%
+}
