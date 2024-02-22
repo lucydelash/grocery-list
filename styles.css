@@ -4,6 +4,7 @@ body {
 
 header {
  color : rgb(70, 0, 156);
+ background-color:white;
  font-size: 50;
  text-align: center;
 }
@@ -11,17 +12,20 @@ header {
 
 h1 {
   color:rgb(146, 9, 9);
+  font-size: 30;
   text-align: center;
 }
 
 
 h2 {
   color:rgb(102, 64, 7);
+  font-size: 26;
   text-align: center;
 }
 
 ul {
   color:rgb(27, 15, 99);
+  font-size: 20;
 }
 
 section {
@@ -31,18 +35,41 @@ section {
   margin: 10px;
 }
 
+#produce-section {
+  background-color: rgb(148, 142, 142);
+}
+
 #fruit-section {
+  background-color: aquamarine;
+  font-weight: bold;
+  float: left;
   width:25%
 }
 
 #vegetable-section {
+  background-color: aquamarine;
+  font-weight: bold;
+  float: left;
+  float: right;
   width:25%
 }
 
+#aisle-goods-section {
+  background-color: rgb(148, 142, 142);
+}
+
 #carbs-section {
+  background-color: aquamarine;
+  font-weight: bold;
+  float: left;
+  float: left;
   width:25%
 }
 
 #cleaners-section {
+  background-color: aquamarine;
+  font-weight: bold;
+  float: left;
+  float: right;
   width:25%
 }
